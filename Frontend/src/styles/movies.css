@@ -1,0 +1,36 @@
+/* styles/MovieDetails.css */
+.movie-details {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #1c1c1c;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  
+  .movie-details h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #ffcc00;
+  }
+  
+  .movie-details img {
+    width: 100%;
+    max-height: 450px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  
+  .movie-details p {
+    font-size: 16px;
+    margin: 10px 0;
+    line-height: 1.5;
+  }
+  
+  .movie-details p span {
+    font-weight: bold;
+    color: #ffcc00;
+  }
+  
